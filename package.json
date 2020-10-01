@@ -1,0 +1,15 @@
+{
+  "name": "sse",
+  "version": "1.0.0",
+  "description": "screen sharing example of concord",
+  "main": "screenshare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "screenshareexample"
+  },
+  "author": "yaser",
+  "license": "ISC"
+}
